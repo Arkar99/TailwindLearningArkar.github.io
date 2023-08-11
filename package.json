@@ -4,8 +4,8 @@
   "description": "Personal repository for learning Tailwind",
   "main": "tailwind.config.js",
   "scripts": {
-    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/css/style2.css --watch", 
-    "prettir" : "npx prettier --write **/*.html"
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/css/style2.css --watch",
+    "prettier": "npx prettier --write **/*.html"
   },
   "repository": {
     "type": "git",
