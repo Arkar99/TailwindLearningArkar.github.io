@@ -971,10 +971,6 @@ video {
   transition-duration: 500ms;
 }
 
-.section-min-height {
-  min-height: calc(100vh - 68px);
-}
-
 .toggle-btn>div::after {
   --tw-translate-y: 0px;
   --tw-rotate: -45deg;
